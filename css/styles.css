@@ -4,15 +4,15 @@ background: -webkit-linear-gradient(to right, #DBD5A4, #649173);  /* Chrome 10-2
 background: linear-gradient(to right, #DBD5A4, #649173); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 width: 1000px;
 margin: 10px auto;
-
-
-
 }
+
 
 .game{
 width: 500px;
 border: 10px solid red;
 padding: 5px auto;
+margin: auto;
+
 }
 
 div[class^="row"] div{
@@ -22,5 +22,5 @@ display: inline-block;
 border: 1px solid blue;
 text-align: center;
 font-size: 50px;
-
 }
+
